@@ -1,2 +1,6 @@
-# reading-notes201
-Code 201 Reading Notes
+# Code 201 Reading Notes
+
+## Table of Contents
+* Code 102 Reading notes
+
+## Things I want to know more about
